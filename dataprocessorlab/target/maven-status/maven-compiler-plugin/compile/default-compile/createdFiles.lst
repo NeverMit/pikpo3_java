@@ -1,0 +1,6 @@
+com\usatu\AppMain.class
+com\usatu\processor\DataProcessorFactory.class
+com\usatu\processor\DataProcessorService.class
+com\usatu\processor\DataProcessor.class
+com\usatu\processor\CsvDataProcessor.class
+com\usatu\processor\TxtDataProcessor.class
